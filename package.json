@@ -1,0 +1,20 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "This is my node project.",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashila01/iims_workshop_code.git"
+  },
+  "author": "Rashila Maharjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashila01/iims_workshop_code/issues"
+  },
+  "homepage": "https://github.com/rashila01/iims_workshop_code#readme"
+}
